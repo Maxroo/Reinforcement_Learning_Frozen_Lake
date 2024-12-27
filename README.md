@@ -29,21 +29,6 @@ This project explores:
     git clone <repository-url>
     cd <repository-folder>
     ```
-
-2. Install dependencies:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-## Usage
-
-Run the project using:
-
-```bash
-python main.py
-```
-
 Feel free to modify the code and experiment with different environments provided by Gymnasium.
 
 ## License
