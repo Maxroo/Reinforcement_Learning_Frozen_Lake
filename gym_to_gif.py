@@ -1,4 +1,4 @@
-# modified version and got this from https://gist.github.com/botforge/64cbb71780e6208172bbf03cd9293553
+# modified version of code from https://gist.github.com/botforge/64cbb71780e6208172bbf03cd9293553
 # 
 from matplotlib import animation
 import matplotlib.pyplot as plt
